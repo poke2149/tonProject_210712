@@ -836,12 +836,12 @@ table {
 #webcam-container{
     position: absolute;
     width: 1%;
-    margin-top: -30%;
+    margin-top: -27%;
     margin-left: 7.5%;
     transform: translate(-25% , -25%);
 }
 #webcam-container canvas{
-    width: 4500%;
+    width: 3700%;
     height: auto;
 }
 #label-container{
